@@ -70,3 +70,5 @@ e. reporting only Dashboard or Mocha reports
 
 visit the officail website of the selenium:
 https://docs.cypress.io/guides/overview/why-cypress
+
+Aashish Paudel
