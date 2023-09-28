@@ -71,5 +71,27 @@ e. reporting only Dashboard or Mocha reports
 visit the officail website of the selenium:
 https://docs.cypress.io/guides/overview/why-cypress
 
-Aashish Paudel
-paudelaashish.a@gmail.com
+Pre Requisit To Learn Cypress
+------------------------------
+Language --> Javascript
+Framework --> MOCHA || JS Test Framework with Chai, Chai-JQuery abd Sinon
+Assertion --> CHAI, SINON & CHAI-JQUERY
+Element Locator --> CSS
+                --> JQUERY 
+                --> XPATH || install plugin to use xpath 
+Element Method --> JQUERY
+REPORT --> MOCHAWESOME
+NODE Basics --> Node Basic
+WEB & API Concepts
+
+Installing Cypress
+------------------
+-> Download NODE
+--> Download editor
+--> create a folder for cypress
+--> run " npm init -y" in the folder
+--> run "npm i cypress"
+--> run in editor
+--> In package.JSON - ADD SCRIPT - "test":"cypress open"
+--> in terminal "npm test"
+--> check cypress folder
